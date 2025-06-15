@@ -16,11 +16,7 @@ A cross‑platform, GUI‑based file encryption and decryption application that 
 | 🖥 Portable EXE          | One‑click build for Windows using PyInstaller.                   |
 | 🐧 macOS / Linux Support | Works everywhere Python 3 and `cryptography` are available.      |
 
----
 
-## 🖼 Screenshots
-
-> *(Add screenshots here once you’ve run the app and taken captures. Place them in the `assets/` folder and link, e.g. `![Main Window](assets/main_window.png)`.)*
 
 ---
 
